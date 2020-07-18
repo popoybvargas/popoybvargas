@@ -1,5 +1,5 @@
 ### Hi there 👋  
-- 👯 I’m looking to collaborate on NodeJs, Express, and MongoDB
+- 👯 I’m looking to collaborate on **API/Web app** devvelopment using ***NodeJs***, ***Express***, and ***MongoDB***
 
 <!--
 **popoybvargas/popoybvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
