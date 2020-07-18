@@ -1,4 +1,5 @@
 ### Hi there 👋  
+<img src="https://media.giphy.com/media/TRklv98Fvo0Tu/source.mp4" width="640" height="360" />  
 - 👯 I’m looking to collaborate on **API/Web app** devvelopment using ***NodeJs***, ***Express***, and ***MongoDB***
 
 <!--
