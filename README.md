@@ -1,5 +1,5 @@
 <!-- <img src="https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif" width="720" /> -->
-![Coding Life](/codingLife_720w.gif)  
+![Coding Life]'./codingLife_720w.gif')  
 
 - 👯 I’m looking to collaborate on **API/Web app** devvelopment using ***NodeJs***, ***Express***, and ***MongoDB***
 
