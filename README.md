@@ -1,7 +1,7 @@
 <!-- <img src="https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif" width="720" /> -->
 ![Coding Life](https://raw.githubusercontent.com/popoybvargas/popoybvargas/master/codingLife_720w.gif)  
 
-#### 👯 I’m looking to collaborate on _API/Mobile/Web app_ development using *NodeJs*, *Express*, *React*, *React Native*, and *MongoDB*
+#### 👯 I’m looking to collaborate on _API/Mobile/Web app_ development using *NodeJs*, *Express*, *React*, & *React Native*
 
 <!--
 **popoybvargas/popoybvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
